@@ -13,8 +13,8 @@ class GoogleCalendarIntegrationPage extends StatefulWidget {
 
 class _GoogleCalendarIntegrationPageState
     extends State<GoogleCalendarIntegrationPage> {
-  final _clientID = "447841275382-l0aan9ljg9gon6gjg4nrhglkmt166erg.apps.googleusercontent.com"; // Google Cloud'dan aldığınız istemci kimliği
-  final _clientSecret = "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"; // Google Cloud'dan aldığınız istemci gizli anahtarı
+  final _clientID = "***.apps.googleusercontent.com"; // Google Cloud'dan aldığınız istemci kimliği
+  final _clientSecret = "***"; // Google Cloud'dan aldığınız istemci gizli anahtarı
 
   late AuthClient _authClient;
   List<calendar.Event> _events = []; // Etkinlikleri tutmak için bir liste
