@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "447841275382",
+    "project_id": "my-mobile-assistant-mp",
+    "storage_bucket": "my-mobile-assistant-mp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447841275382:android:77357e2fb70ea239fecbd7",
+        "android_client_info": {
+          "package_name": "com.example.untitled3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447841275382-d3j3sk1ppnlfcdh6uhkcdnqv1thvndtg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.untitled3",
+            "certificate_hash": "0d020e2234e9dbfbbee6a8a343bd80ef7b402866"
+          }
+        },
+        {
+          "client_id": "447841275382-af9qmeirec5vidvs0mvt8bo6d3drhd4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC0JOUyW3MCec9QgXz1sZ_t23Nzm11LaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447841275382-af9qmeirec5vidvs0mvt8bo6d3drhd4u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
